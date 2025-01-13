@@ -2,6 +2,9 @@
 
 A simple **Electronic Health Record (EHR)** application built using **Swift** and **SwiftUI** to explore the basics of iOS development. This app allows users to create and manage patient records, prescribe medications, and determine blood type compatibility.
 
+![Demo 1](Demo_1.png "EHR Demo")
+![Demo 2](Demo_2.png "Prescribing Medication")
+
 ---
 
 ## Features
