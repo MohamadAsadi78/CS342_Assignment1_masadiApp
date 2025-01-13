@@ -2,6 +2,10 @@
 
 A simple **Electronic Health Record (EHR)** application built using **Swift** and **SwiftUI** to explore the basics of iOS development. This app allows users to create and manage patient records, prescribe medications, and determine blood type compatibility.
 
+### AI Usage
+GPT-4o has been used to do the labor while I instructed it how to write the classes, what to include, and how to implement methods (e.g. which protocols to use, what the input output should be, what cases to handle and how to handle them, what functions to use in calculating date differences etc.)
+https://chatgpt.com/share/6784cfee-1cf8-800a-9a4d-404160ba744f
+
 ### Screenshots
 
 #### EHR Demo
