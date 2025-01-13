@@ -7,14 +7,14 @@ A simple **Electronic Health Record (EHR)** application built using **Swift** an
 #### EHR Demo
 This screenshot shows the main interface of the EHR application where you can create a new patient and view their details.
 
-<img src="Demo_1.png" alt="EHR Demo" title="EHR Demo" width="600">
+<img src="Demo_1.png" alt="EHR Demo" title="EHR Demo" width="400">
 
 ---
 
 #### Prescribing Medication
 This screenshot demonstrates the medication prescription functionality, including fields for medication details and error handling for duplicates.
 
-<img src="Demo_2.png" alt="Prescribing Medication" title="Prescribing Medication" width="600">
+<img src="Demo_2.png" alt="Prescribing Medication" title="Prescribing Medication" width="400">
 
 
 ---
